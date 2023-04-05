@@ -5,6 +5,7 @@ collection: projects
 permalink: /publication/sugarcane_segmentation
 date: 2022-08-24
 status: 'done'
+github: 'https://github.com/dbcopper/Sugarcane-field-segmentation-Huawei-2022-competition-'
 ---
 
 Introduction

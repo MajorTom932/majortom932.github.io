@@ -5,6 +5,7 @@ collection: projects
 permalink: /publication/android
 date: 2022-05-09
 status: 'done'
+github: 'https://github.com/dbcopper/sugarcane-android'
 ---
 
 Introduction

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Technology, Beijing Forest University, 2020
+* B.S. in School of Technology, Beijing Forest University, 2020 
 * M.S. in School of Electrical Engineering, Guangxi University, 2024 (expected)
-
+  * GPA:3.63/4
 Experiences
 ======
   <ul>{% for post in site.experiences %}
@@ -22,17 +22,13 @@ Experiences
   
 Skills
 ======
-* Language level
-  * CET-6, ItLts(Preparing for the exam)
-  * Listening(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
-* Research skills
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Data analysis:
 * Programming skills
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Python(Proficient), C++(Great), Linux(Great), Java(Normal), Javascripe(Great), Mysql(Great)
+  * Data structures(Proficient), operating systems(Proficient), computer architecture(Great), computer networks(Great).
+  * Pytorch(Proficient), Tensorflow(Great)
+* Language level
+  * CET-6
+  * Listening(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
 
 Publications
 ======
