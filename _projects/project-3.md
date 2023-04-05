@@ -5,6 +5,7 @@ collection: projects
 permalink: /publication/automatic_labeling
 date: 2021-11-30
 status: 'done'
+github: 'https://github.com/dbcopper/automatic_labeling'
 ---
 
 Introduction

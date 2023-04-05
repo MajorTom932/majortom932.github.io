@@ -5,6 +5,7 @@ collection: projects
 permalink: /publication/dragon_furit
 date: 2021-10-11
 status: 'done'
+github: 'https://github.com/dbcopper/Object_Detection_Dragonfruit'
 ---
 
 Introduction

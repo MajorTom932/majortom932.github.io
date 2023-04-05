@@ -5,6 +5,7 @@ collection: projects
 permalink: /publication/mini-program
 date: 2022-07-23
 status: 'doing'
+github: ''
 ---
 
 Introduction
