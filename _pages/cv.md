@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Technology, Beijing Forest University, 2020 
+* B.S. in School of Technology, Beijing Forestry University, 2020 
 * M.S. in School of Electrical Engineering, Guangxi University, 2024 (expected)
   * GPA:3.63/4
   
