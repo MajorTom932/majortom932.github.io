@@ -1,11 +1,11 @@
 ---
-title: "Research assistant-NLP Laboratory"
+title: "科研助理-NLP实验室"
 collection: experiences
 permalink: /experiences/research-1
-venue: "School of Information Science and Technology, Beijing Forestry University"
+venue: "北京林业大学信息学院"
 date: 2019-03-01
 time: "Spring 2019 - Fall 2019"
 location: "Beijing, China"
 
 ---
-During my time as a research assistant supervised by Supervised by [Assoc. Prof. Zhao](https://www.researchgate.net/profile/Xiuhua-Li-2), I studied various NLP-related concepts such as Hidden Markov Models, LSTMs, and Transformers. I also attempted to improve the RNN-T model by integrating a VGG16 network as a feature extraction module at the input layer to capture temporal context information. In addition, I employed an SEnet-style gating mechanism to control which information in the channel domain should be propagated to the RNN-T model. I have strong programming skills in both Python and C++, and I am familiar with the model development workflow using the Tensorflow framework.
+在担任研究助理期间，学习隐马尔可夫链，LSTM和Transformer等相关NLP知识。尝试在RNN-T的输入层上构建了 VGG16网络作为特征提取模块，来提取时域中的上下文信息，然后使用  SEnet-style gating mechanism来控制通道域中的哪些信息要传播到 RNN-T。掌握了python和C++的编程能力，Tensorflow框架的模型开发流程。
